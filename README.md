@@ -73,5 +73,3 @@ These models quantified how each feature contributed to sales performance, enabl
 * Use predictive insights to guide product portfolio optimization.
 
 ---
-
-Would you like me to make this GitHub summary more **technical (focused on models, methods, and code workflow)** or **business-oriented (focused on outcomes and impact)**?
